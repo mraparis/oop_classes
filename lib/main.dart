@@ -1,6 +1,6 @@
-import 'miya.dart';
+import 'hannabi.dart';
 
 void main() {
-  var miya = Miya("Moonlight Bow", 30);
-  miya.attack();
+  var hannabi = Hannabi("Shadow Shuriken", 80);
+  hannabi.throwShuriken();
 }
