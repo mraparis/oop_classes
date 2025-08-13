@@ -1,6 +1,6 @@
-import 'tigreal.dart';
+import 'miya.dart';
 
 void main() {
-  var tigreal = Tigreal("Moniyan Empire", 20);
-  tigreal.describe();
+  var miya = Miya("Moonlight Bow", 30);
+  miya.attack();
 }
